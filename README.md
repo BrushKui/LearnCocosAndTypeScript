@@ -1,2 +1,3 @@
-# LearnCocosAndtypeScript
-LearnCocosAndtypeScript
+# LearnCocosAndTypeScript
+LearnCocosAndTypeScript
+这些都是我学习cocosCreator3.82的工程文件
